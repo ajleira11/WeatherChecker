@@ -69,7 +69,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Replace `your-username` in the cloning command with your actual GitHub username or the URL for your repository.
 - Add your actual OpenWeather API key where it says `your_openweather_api_key` in the `.env` file section.
 - Feel free to add any additional features, known issues, or future improvements that might be relevant to your project.
-
-```
-
-```
