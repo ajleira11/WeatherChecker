@@ -29,10 +29,9 @@ A simple weather application built with **Vite** and **React**. This app allows 
 
 1. **Clone the repository**:
 
-   ```bash
+```bash
    git clone https://github.com/your-username/weather-app.git
-
-   ```
+```
 
 2. Navigate to the project directory:
 
@@ -43,7 +42,7 @@ A simple weather application built with **Vite** and **React**. This app allows 
 3.Install dependencies:
 
 ```bash
-npm install
+    npm install
 ```
 
 4. Create a .env file in the root of the project and add your OpenWeather API key:
