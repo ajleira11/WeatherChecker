@@ -34,7 +34,7 @@ function App() {
   };
 
   const toggleTemperatureUnit = () => {
-    setIsCelsius((prev) => !prev); // Toggle the unit state
+    setIsCelsius((prev) => !prev);
   };
 
   useEffect(() => {
